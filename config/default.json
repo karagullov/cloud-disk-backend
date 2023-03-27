@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbURL": "mongodb+srv://erlan:Makers01erlan@cluster0.izf6xg9.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "cloud-secret-key"
+}
